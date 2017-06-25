@@ -1,9 +1,8 @@
 header {
-	line-height: 75%;
+	line-height: 50%;
 	float:top;
 	margin-top:50px;
 	margin-bottom:10px;
-	margin-left:10%;
 	color:#5d5d5d;
 	text-align:left;
 	font-size: 400%;
@@ -39,16 +38,16 @@ body {
 
 
 h1 {
-	line-height:75%;
+	line-height:65%;
 	word-spacing: 2px;
 	float:top;
 	color: #aaaaaa;
-	margin-left:10.5%;
 	font-size: 100%;
+	text-align: left;
 }
 
 h2 {
-	line-height: 75%;
+	line-height: 10px;
 	text-transform:uppercase;
 	font-weight: normal;
 	color:#5d5d5d;
@@ -58,7 +57,6 @@ h2 {
 
 p {
 		line-height: 0%;
-		margin-left:10%;
 		font-family: 'Rambla', sans-serif;
     font-size: 400%;
 		color:#5d5d5d;
